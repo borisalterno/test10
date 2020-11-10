@@ -1,0 +1,28 @@
+ {
+    "base": "./dist",
+    "conn_usestrictssl" : false,
+    "conn_server": "http://dsapgwtlvnta1:44/",
+    "conn_client" : "GWD",
+    "conn_user": "borisp",
+    "conn_password": "qaz12345!",
+    "abap_package": "$TMP",
+    "abap_bsp": "ZVSCODE_APP",
+    "abap_bsp_text": "UI5 upload through VSCode App",
+    "calcappindex" : true
+    }
+
+
+    {
+    "base": "./dist",
+    "conn_usestrictssl" : false,
+    "conn_server": "http://dsapgwtlvnta1.nta.local:8000",
+    "conn_client" : "200",
+    "conn_user": "ivant",
+    "conn_password": "1q2w3e4r",
+    "abap_package": "$TMP",
+    "abap_bsp": "ZTEST4",
+    "abap_bsp_text": "UI5 upload through VSCode App",
+    "abap_transport" : "GWDK902906",
+    "calcappindex" : true
+    }
+    

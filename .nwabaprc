@@ -1,0 +1,13 @@
+
+    {
+    "base": "./dist",
+    "conn_usestrictssl" : false,
+    "conn_server": "http://dsapgwtlvnta1.nta.local:8000",
+    "conn_client" : "200",
+    "conn_user": "ivant",
+    "conn_password": "1q2w3e4r",
+    "abap_package": "$TMP",
+    "abap_bsp": "ZTEST10",
+     "abap_bsp_text": "ZTEST10"
+    }
+    
